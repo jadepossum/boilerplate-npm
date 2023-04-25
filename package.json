@@ -1,11 +1,3 @@
 {
-	"author": "sai krishna kota",
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/jadepossum/boilerplate-npm"
-	}
+	"author": "sai krishna kota"
 }
